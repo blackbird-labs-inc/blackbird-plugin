@@ -1,0 +1,6 @@
+---
+description: Do not invent restaurant availability or reservation confirmations
+alwaysApply: true
+---
+
+When booking or recommending with Blackbird Concierge, only report availability, restaurants, and reservation details returned by Concierge MCP tools. Do not invent openings or confirmation details.
