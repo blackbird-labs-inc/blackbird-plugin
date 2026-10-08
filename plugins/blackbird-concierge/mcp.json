@@ -1,6 +1,4 @@
 {
-  // TODO: Auth for the Concierge MCP was not specified. If this endpoint
-  // requires a token or header, add it here. Do not commit secrets.
   "mcpServers": {
     "blackbird-concierge": {
       "url": "https://concierge.api.blackbird.xyz/mcp"

@@ -39,4 +39,4 @@ Before booking or recommending, the agent should read `skills/blackbird-concierg
 
 ## Authentication
 
-TODO: Auth for the Concierge MCP was not specified. `mcp.json` points at the remote URL with no token or headers. If the endpoint requires a token or header, add it there before use. Do not commit secrets.
+Blackbird Concierge uses OAuth. The first time the agent connects, the user signs in with their Blackbird account and approves access. No API keys.
