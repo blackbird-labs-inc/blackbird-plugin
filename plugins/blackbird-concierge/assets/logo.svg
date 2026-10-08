@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">Blackbird Concierge</title>
+  <desc id="desc">Simple geometric bird mark for the Blackbird Concierge plugin.</desc>
+  <rect width="128" height="128" rx="24" fill="#111111" />
+  <path d="M24 74c20-6 32-22 40-40 3 16 12 30 28 38-18 3-30 10-40 24-8-12-16-18-28-22z" fill="#F6F1E7" />
+</svg>

@@ -1,0 +1,22 @@
+{
+  "name": "blackbird-concierge",
+  "displayName": "Blackbird Concierge",
+  "version": "0.1.0",
+  "description": "Blackbird's MCP gets you access to book, reserve, and explore reservations via OpenTable, Resy, and SevenRooms. It can help you find the right reservation based on your taste profile generated from your past restaurant check-ins and payments.",
+  "author": {
+    "name": "Blackbird Labs",
+    "email": "support@blackbird.xyz"
+  },
+  "license": "MIT",
+  "keywords": [
+    "blackbird",
+    "restaurants",
+    "reservations",
+    "opentable",
+    "resy",
+    "sevenrooms",
+    "mcp",
+    "flynet"
+  ],
+  "logo": "assets/logo.svg"
+}

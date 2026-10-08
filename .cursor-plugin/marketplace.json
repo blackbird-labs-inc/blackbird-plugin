@@ -1,23 +1,18 @@
 {
-  "name": "cursor-plugin-starters",
+  "name": "blackbird",
   "owner": {
-    "name": "Your Org",
-    "email": "plugins@example.com"
+    "name": "Blackbird Labs",
+    "email": "support@blackbird.xyz"
   },
   "metadata": {
-    "description": "Starter marketplace template for Cursor plugins",
+    "description": "Get access to reservations & recommendations at top restaurants.",
     "version": "0.1.0"
   },
   "plugins": [
     {
-      "name": "starter-simple",
-      "source": "./plugins/starter-simple",
-      "description": "Minimal plugin with rules and skills only"
-    },
-    {
-      "name": "starter-advanced",
-      "source": "./plugins/starter-advanced",
-      "description": "Full-featured plugin with rules, skills, agents, commands, hooks, and MCP"
+      "name": "blackbird-concierge",
+      "source": "./plugins/blackbird-concierge",
+      "description": "Book, reserve, and explore reservations via OpenTable, Resy, and SevenRooms using the member's taste profile."
     }
   ]
 }
